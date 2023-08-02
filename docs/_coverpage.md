@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](https://docsify.js.org/_media/icon.svg)
 
 # docsify-我的知识总结 <small>3.5</small>
 
