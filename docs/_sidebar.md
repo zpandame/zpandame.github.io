@@ -1,7 +1,13 @@
 <!-- docs/_sidebar.md -->
-* [首页](README)
-* [我的博客网站](guide)
-* [我收集的博客](zh-cn/001.我收集的博客.md)
-* [创作网站收藏](zh-cn/002.创作网站收藏.md)
-* [Markdown基础语法结构](zh-cn/003.Markdown的11种基本语法.md)
-* [Bash的介绍](zh-cn/bash/001.bash的介绍.md)
+* [**首页**](README)
+* **website-collect**
+    * [我收集的博客](website-collect/001.我收集的博客)
+    * [创作网站收藏](website-collect/002.创作网站收藏)
+* **Markdown**
+    * [Markdown基础语法结构](markdown/01.Markdown的11种基本语法)
+* **Bash**
+    * [Bash的介绍](bash/001.bash的介绍)
+* **Webpack**
+    * [什么是webpack](webpack/01.什么是webpack)
+    * [webpack的安装](webpack/02.webpack的安装)
+    * [webpack的配置](webpack/03.webpack的配置)
